@@ -1,17 +1,16 @@
 {
-  "name": "Friday-Userbot",
+  "name": "Userbot",
   "description": "A Userbot Based On Pyrogram.",
-  "logo": "https://telegra.ph/file/b4e1e36c6b1fcb32dd997.jpg",
+  
   "keywords": [
     "telegram",
-    "fridaybot",
+    
     "plugin",
-    "fridaybot",
+   
     "productivity"
   ],
-  "repository": "https://github.com/starkgang/FridayUserbot",
-  "website": "t.me/fridayot",
-  "success_url": "t.me/FridayOT",
+  "repository": "https://github.com/samurai-maker/ub",
+
   "stack": "container",
   "env": {
     "API_ID": {
