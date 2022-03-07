@@ -10,11 +10,11 @@ from database import db_x
 
 bsdb = db_x["bot_sdb"]
 
-default_text = """<b>ഹലോ ,<i><a href="https://telegra.ph/file/52bf20fcee098867f53a9.jpg">DevAXD</a></i>!
+default_text = """<b>ഹലോ ,{user_firstname}!
 ഞാൻ  {boss_firstname} യുടെ പേർസണൽ അസിസ്റ്റന്റ് ജൂലി.</b>
 <i>ക്ഷമിക്കണം, താങ്കൾ അന്വേഷിച്ചുവന്ന എന്റെ ആശാൻ ഇപ്പോൾ തിരക്കിലാണ്.</i>
 
-<b>കേൾക്കു</b> : <i><a href="https://t.me/slogan_98/102">Help me i am in danger</a></i>
+<b>കേൾക്കു</b> : <i><a href="https://t.me/slogan_98/102">click here</a></i>
 """
 default_bloco_text = " പേടിക്കണ്ട, ആശാൻ വന്നിട്ട് മെസേജ് അയച്ചോളും "
 
